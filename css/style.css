@@ -1,1 +1,117 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #363958;
+}
+
+.navbar-brand img{
+    width: 290px;
+}
+
+
+.main-header-font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5em;
+    color:  #363958;
+}
+
+.section-header-font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3empx;
+    color:  #363958;
+}
+
+.orange{
+    color:#FABE4C;
+}
+
+.dark-blue{
+    color: #363958;
+}
+
+.black{
+    color: #3E3E3E;
+}
+
+.btn-custom{
+    color: #FFFFFF;
+    background-color: #A4BC46;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-size: 500;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.btn-custom img{
+    width:20px;
+}
+
+.jacket-card{
+    border: 0;
+}
+
+.banner-bg{
+    height: 700px;
+    background-color:#FFFBF0;
+}
+
+.nav li a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.product-image{
+    height: 327px;
+    margin: 20px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+
+.product-image img{
+    height: 273px;
+    width: 200px;
+
+}
+
+.price{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    color: #FABE4C;
+}
+
+.card-footer{
+    border: 0;
+    background-color: #FFFFFF;
+}
+
+.icon img{
+    height: 100px;
+    padding-left: 10px;
+}
+
+.icon-card{
+    height: 135px;
+    width: 490px;
+    background-color: #ffffff;
+    
+}
+
+.shopping-img img{
+    width: 100%;
+}
+
+.icon-header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
+
+
+
+
 
