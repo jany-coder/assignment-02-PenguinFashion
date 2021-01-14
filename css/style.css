@@ -20,17 +20,7 @@ body{
     color:  #363958;
 }
 
-.orange{
-    color:#FABE4C;
-}
 
-.dark-blue{
-    color: #363958;
-}
-
-.black{
-    color: #3E3E3E;
-}
 
 .btn-custom{
     color: #FFFFFF;
@@ -82,6 +72,10 @@ body{
     color: #FABE4C;
 }
 
+.bg-orange{
+    background-color: #FABE4C ;
+}
+
 .card-footer{
     border: 0;
     background-color: #FFFFFF;
@@ -110,7 +104,11 @@ body{
 }
 
 
-
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
 
 
 
