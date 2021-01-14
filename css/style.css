@@ -94,7 +94,7 @@ body{
 
 .icon-card{
     height: 135px;
-    width: 490px;
+    width: auto;
     background-color: #ffffff;
     
 }
